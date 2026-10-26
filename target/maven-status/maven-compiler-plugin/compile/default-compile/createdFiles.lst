@@ -1,0 +1,9 @@
+com\flatdesk\servlet\AuthServlet$JsonLogin.class
+com\flatdesk\servlet\AuthServlet$Msg.class
+com\flatdesk\servlet\AuthServlet$LoginResponse.class
+com\flatdesk\servlet\PropertyServlet.class
+com\flatdesk\dao\PropertyDAO.class
+com\flatdesk\config\DB.class
+com\flatdesk\model\Property.class
+com\flatdesk\servlet\AuthServlet.class
+com\flatdesk\servlet\DashboardServlet.class
